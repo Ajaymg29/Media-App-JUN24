@@ -1,0 +1,1 @@
+export const server_url='https://media-server-jun24.onrender.com'
